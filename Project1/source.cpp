@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 
+//Cerinta nr. 6
 using namespace std;
 
 // We begin with the first class which will be called 'Materie'
