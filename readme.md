@@ -7,12 +7,7 @@ Technologies
 The projects in this repository are written in C++ and use the Visual Studio IDE. You will need to have Visual Studio installed on your computer to run the projects.
 
 Setup
-To get started, you will need to clone this repository to your local machine. You can do this by running the following command in your terminal or command prompt:
-
-bash
-Copy code
-git clone https://github.com/your-username/cpp-oop-course-projects.git
-Once you have cloned the repository, you will need to open Visual Studio and open the project from the cloned directory. To do this, follow these steps:
+To get started, you will need to clone this repository to your local machine.
 
 Open Visual Studio.
 Select File > Open > Project/Solution.
